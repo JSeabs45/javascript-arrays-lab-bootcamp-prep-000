@@ -1,6 +1,6 @@
 // Add your functions and code here
 
-destructivelyAppendKitten() {
+function destructivelyAppendKitten() {
   var kittens = ["Milo", "Otis", "Garfield"]
   
 }
