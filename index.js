@@ -5,3 +5,8 @@
    kittens.push("Ralph");
    return kittens;
  }
+ 
+ function destructivelyPrependKitten() {
+   kittens.push("Ralph");
+   return kittens;
+ }
